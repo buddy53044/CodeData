@@ -20,4 +20,3 @@ case /* constant-expression */:
 default:
     break;
 }
-
