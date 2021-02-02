@@ -16,7 +16,8 @@ switch (expression)
 case /* constant-expression */:
     /* code */
     break;
-
+printf(" ");
+printf("dukasd");
 default:
     break;
 }
