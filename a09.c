@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <string.h>
+#include <math.h>
 int main()
 {
+    sqrt()
     int k = 7;
     char a[80];
     gets(a);
